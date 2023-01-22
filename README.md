@@ -68,6 +68,15 @@ list_of_nums=eval(input())
 insertion_sort(list_of_nums)
 print(list_of_nums)
 ```
+## INPUT :
+
+### INPUT FOR SELECTION SORT :
+![image](https://user-images.githubusercontent.com/118054670/213933037-8494437f-4176-49fa-b5ce-a760439d1d79.png)
+
+
+### INPUT FOR INSERTION SORT :
+
+![image](https://user-images.githubusercontent.com/118054670/213933018-4c0b0ba7-bb9e-4bb0-b312-5fe07bbd6806.png)
 
 ## OUTPUT :
 
