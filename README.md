@@ -31,7 +31,6 @@ To write a program to perform selection sort and insertion sort using python pro
 
 ###  SELECTION SORT :
 ```python
-Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
@@ -52,7 +51,6 @@ print(list_of_nums)
 ### INSERTION SORT :
 
 ```PYTHON
-Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
